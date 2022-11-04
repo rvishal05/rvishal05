@@ -7,16 +7,16 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on <b>**Java Swing**</b>
+- 🔭 I’m currently working on <b>**Android Development**</b>
 
-- 🌱 I’m currently learning <b>**Android Development**</b>
+- 🌱 I’m currently learning <b>**Cloud Architecture**</b>
 
 - 💬 Ask me about <b>**C/C++, java, python, VB.net**</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/r-vishal-43312a221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/r-vishal-43312a221" height="30" width="40" /></a>
-<a href="https://instagram.com/@_r_vishal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_r_vishal_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/r-vishal-43312a221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/r-vishal-43312a221" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_r_vishal_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_r_vishal_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

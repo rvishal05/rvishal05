@@ -1,4 +1,4 @@
-[![MasterHead](https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif?20180717112308)]
+![MasterHead](https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif?20180717112308)
 <h1 >Hi, I'm Vishal! 👋</h1>
 <h3 >A passionate coder from India</h3>
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=790b7611441d6a543db6884ac5c107aa297ed1a2310d2e45&amp;rid=giphy.gif&amp;ct=g">

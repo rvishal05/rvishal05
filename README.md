@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on <b>**CAPM / Node.js**</b>
+- 🔭 I’m currently working on <b>**SAP Build Process Automation (BPA)**</b>
 
-- 🌱 I’m currently learning <b>**SAP BTP / CAPM / Node.js**</b>
+- 🌱 I’m currently learning <b>**SAP UI5 / SAP CAPM**</b>
 
-- 💬 Ask me about <b>**C/C++, java, python, VB.net, SAP ABAP, SAP BTP**</b>
+- 💬 Ask me about <b>**C/C++, java, SAP ABAP, OData, SAP BTP, SAP Workflows**</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
